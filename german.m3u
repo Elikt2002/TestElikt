@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Germany: Pro7
+http://lstv2.hls2.stream-server.org/live/pro7@sd/index.m3u8
 #EXTINF:-1,Germany: Sky-Select HD2
 http://hyper.de1-eu.com:8000/live/tiago/tiago/1495.m3u8
 #EXTINF:-1,Germany: Sky-Select HD3
