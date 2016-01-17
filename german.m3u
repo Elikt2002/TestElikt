@@ -83,55 +83,359 @@ http://hyper.de1-eu.com:8000/live/tiago/tiago/859.m3u8
 http://hyper.de1-eu.com:8000/live/tiago/tiago/860.m3u8
 
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
-
-#EXTINF:-1,[COLOR yellow][I][B]DE/FR/UK/IT [/B][/I][/COLOR] [COLOR white][I][B]- Kopieren und Einfugen der [COLOR yellow]Playlist URL[/COLOR] in PVR Simple Client oder Playlist Loader.[/B][/I][/COLOR]
+#EXTINF:-1,[I][B][COLOR green]--- Serbisches Programm - Alternative Liste ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-
-
-#EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]und sollte in der PVR Simple Client platziert werden.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]Die Kanale sind unterschiedlicher Nationalitaten und sind in alphabetischer Reihenfolge geordnet.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]Leider ist es die einzige Moglichkeit, um die Kanale zu sehen.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR orange][I][B]Alle diese Streams können frei über das Internet gefunden werden...[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://snurl.com/marcello[/COLOR]
-
-
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:0,RTK 1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/483.m3u8
+#EXTINF:0,KTV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/504.m3u8
+#EXTINF:0,RTV21
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/481.m3u8
+#EXTINF:0,RTV21 M
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/536.m3u8
+#EXTINF:0,RTV 21 Popullore
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/551.m3u8
+#EXTINF:0,Klan TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/516.m3u8
+#EXTINF:0,Klan TV-SD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/838.m3u8
+#EXTINF:0,Klan Kosova
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/499.m3u8
+#EXTINF:0,Top Channel
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/506.m3u8
+#EXTINF:0,TOP NEWS
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/620.m3u8
+#EXTINF:0,KANALI 7
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/737.m3u8
+#EXTINF:0,Vizion Plus
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/542.m3u8
+#EXTINF:0,TVSH
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/558.m3u8
+#EXTINF:0,RTV ALDI
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/455.m3u8
+#EXTINF:0,TV Presheva
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/684.m3u8
+#EXTINF:0,Alsat M
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/482.m3u8
+#EXTINF:0,MRT1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/940.m3u8
+#EXTINF:0,MRT2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/720.m3u8
+#EXTINF:0,TV Besa
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/848.m3u8
+#EXTINF:0,TV2 Gostivari
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/913.m3u8
+#EXTINF:0,TV Globi
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/942.m3u8
+#EXTINF:0,TV CEGRANI MEDIA
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/943.m3u8
+#EXTINF:0,TV CEGRANI BESA BERLIN
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/944.m3u8
+#EXTINF:0,TV Koha
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/815.m3u8
+#EXTINF:0,SKY TETOVA
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/937.m3u8
+#EXTINF:0,Zico TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/933.m3u8
+#EXTINF:0,Zjarr Tv
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/925.m3u8
+#EXTINF:0,RROKUM TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/585.m3u8
+#EXTINF:0,Al Jeazeera
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/532.m3u8
+#EXTINF:0,EuroNews
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/507.m3u8
+#EXTINF:0,Cufo TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/878.m3u8
+#EXTINF:0,Bang Bang
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/570.m3u8
+#EXTINF:0,RTV 21 Junior
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/732.m3u8
+#EXTINF:0,Tring Tring
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/555.m3u8
+#EXTINF:0,Tip TV-Tring
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/764.m3u8
+#EXTINF:0,T+
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/773.m3u8
+#EXTINF:0,Gold Film HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/818.m3u8
+#EXTINF:0,Film Nje HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/837.m3u8
+#EXTINF:0,Film Dy HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/836.m3u8
+#EXTINF:0,Jolly HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/727.m3u8
+#EXTINF:0,LIVING HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/726.m3u8
+#EXTINF:0,Film Hits
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/567.m3u8
+#EXTINF:0,Film Aksion
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/513.m3u8
+#EXTINF:0,Film Dramë
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/770.m3u8
+#EXTINF:0,Film Komedi
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/771.m3u8
+#EXTINF:0,Film Autor
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/772.m3u8
+#EXTINF:0,Film Triller
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/459.m3u8
+#EXTINF:0,Tring Super
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/559.m3u8
+#EXTINF:0,Tring Shqip
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/557.m3u8
+#EXTINF:0,Tring Planet
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/543.m3u8
+#EXTINF:0,Tring Max
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/560.m3u8
+#EXTINF:0,Tring Festa
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/545.m3u8
+#EXTINF:0,Tring History
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/723.m3u8
+#EXTINF:0,Tring Comedy
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/544.m3u8
+#EXTINF:0,TRING FANTASY
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/550.m3u8
+#EXTINF:0,MEDIASET ITALIA
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/820.m3u8
+#EXTINF:0,Explorer Histori
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/777.m3u8
+#EXTINF:0,Explorer Shkence
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/460.m3u8
+#EXTINF:0,Explorer Natyrë
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/778.m3u8
+#EXTINF:0,Travel Channel
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/547.m3u8
+#EXTINF:0,Nat Geographic
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/554.m3u8
+#EXTINF:0,RTL LIVING
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/904.m3u8
+#EXTINF:0,HISTORY CHANEL
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/905.m3u8
+#EXTINF:0,Discovery TLC
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/898.m3u8
+#EXTINF:0,Discovery Channel
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/894.m3u8
+#EXTINF:0,Crime & Investigation Network
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/897.m3u8
+#EXTINF:0,FOX
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/725.m3u8
+#EXTINF:0,Fox Life
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/552.m3u8
+#EXTINF:0,FOX Crime
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/738.m3u8
+#EXTINF:0,MUSE TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/736.m3u8
+#EXTINF:0,LUXE TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/731.m3u8
+#EXTINF:0,EROLDI
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/742.m3u8
+#EXTINF:0,3 Plus
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/741.m3u8
+#EXTINF:0,Dasma TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/668.m3u8
+#EXTINF:0,Sport Klub 1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/522.m3u8
+#EXTINF:0,Sport Klub 2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/489.m3u8
+#EXTINF:0,Sport Klub 3
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/903.m3u8
+#EXTINF:0,Super Sport 1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/503.m3u8
+#EXTINF:0,Super Sport 2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/452.m3u8
+#EXTINF:0,Super Sport 3
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/493.m3u8
+#EXTINF:0,Super Sport 4
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/774.m3u8
+#EXTINF:0,Tring Sport 1 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/783.m3u8
+#EXTINF:0,Tring Sport 2 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/784.m3u8
+#EXTINF:0,Tring Sport 3 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/785.m3u8
+#EXTINF:0,Tring Sport 4 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/786.m3u8
+#EXTINF:0,Arena Sport 1 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/895.m3u8
+#EXTINF:0,Arena Sport 2 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/901.m3u8
+#EXTINF:0,Arena Sport 3 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/899.m3u8
+#EXTINF:0,Arena Sport 4 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/900.m3u8
+#EXTINF:0,Arena Sport 5 HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/896.m3u8
+#EXTINF:0,Super Sport Kosova 1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/775.m3u8
+#EXTINF:0,Super Sport Kosova 2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/776.m3u8
+#EXTINF:0,Tring Sport News
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/729.m3u8
+#EXTINF:0,Motors TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/563.m3u8
+#EXTINF:0,TELESPORT
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/556.m3u8
+#EXTINF:0,RAI SPORT
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/922.m3u8
+#EXTINF:0,TRT Sport HD
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/749.m3u8
+#EXTINF:0,Eurosport Deutschland
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/495.m3u8
+#EXTINF:0,PINK
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/509.m3u8
+#EXTINF:0,Pink Reality
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/728.m3u8
+#EXTINF:0,Pink Zabava
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/457.m3u8
+#EXTINF:0,Pink Premium
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/458.m3u8
+#EXTINF:0,Pink Triller
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/576.m3u8
+#EXTINF:0,Pink World
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/577.m3u8
+#EXTINF:0,Pink Sci-Fi&Fantasy
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/450.m3u8
+#EXTINF:0,Pink Crime&Mystery
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/462.m3u8
+#EXTINF:0,B 92
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/535.m3u8
+#EXTINF:0,Prva TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/500.m3u8
+#EXTINF:0,RTS SAT
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/494.m3u8
+#EXTINF:0,Sitel
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/938.m3u8
+#EXTINF:0,SITEL-3
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/939.m3u8
+#EXTINF:0,Alfa TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/941.m3u8
+#EXTINF:0,HRT-1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/525.m3u8
+#EXTINF:0,HRT-2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/487.m3u8
+#EXTINF:0,HRT-3
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/477.m3u8
+#EXTINF:0,HRT-4
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/864.m3u8
+#EXTINF:0,KCN1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/865.m3u8
+#EXTINF:0,KCN2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/867.m3u8
+#EXTINF:0,KCN3
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/866.m3u8
+#EXTINF:0,Kanal5
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/860.m3u8
+#EXTINF:0,Kanal 5 Plus
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/863.m3u8
+#EXTINF:0,Shutel
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/889.m3u8
+#EXTINF:0,Smile
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/779.m3u8
+#EXTINF:0,BBF
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/562.m3u8
+#EXTINF:0,Folk
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/564.m3u8
+#EXTINF:0,NR1 TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/553.m3u8
+#EXTINF:0,Music Al
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/780.m3u8
+#EXTINF:0,Tirana TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/580.m3u8
+#EXTINF:0,VEVO 1 Music
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/880.m3u8
+#EXTINF:0,VEVO 2 Music
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/881.m3u8
+#EXTINF:0,VEVO 3 Music
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/882.m3u8
+#EXTINF:0,PGTV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/530.m3u8
+#EXTINF:0,RADIO K4 SHQIP
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/685.m3u8
+#EXTINF:0,W9 France
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/804.m3u8
+#EXTINF:0,TVA France
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/805.m3u8
+#EXTINF:0,France 24
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/802.m3u8
+#EXTINF:0,KIKA
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/790.m3u8
+#EXTINF:0,ZDF
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/768.m3u8
+#EXTINF:0,ZDF Info
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/765.m3u8
+#EXTINF:0,3sat
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/797.m3u8
+#EXTINF:0,Arte
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/803.m3u8
+#EXTINF:0,RTL
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/468.m3u8
+#EXTINF:0,RTL2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/466.m3u8
+#EXTINF:0,SUPER RTL
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/501.m3u8
+#EXTINF:0,N24
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/486.m3u8
+#EXTINF:0,SAT 1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/827.m3u8
+#EXTINF:0,SAT 1 Gold
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/825.m3u8
+#EXTINF:0,Das Erste
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/858.m3u8
+#EXTINF:0,VOX Austria
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/521.m3u8
+#EXTINF:0,kabel eins
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/497.m3u8
+#EXTINF:0,ProSieben
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/524.m3u8
+#EXTINF:0,ProSieben MAXX
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/830.m3u8
+#EXTINF:0,Deutsche Welle
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/817.m3u8
+#EXTINF:0,RAI 1
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/916.m3u8
+#EXTINF:0,RAI 2
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/917.m3u8
+#EXTINF:0,RAI 3
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/918.m3u8
+#EXTINF:0,RAI YoYo
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/924.m3u8
+#EXTINF:0,RAI NEWS24
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/921.m3u8
+#EXTINF:0,RAI MOVIE
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/920.m3u8
+#EXTINF:0,RTV ISLAM
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/575.m3u8
+#EXTINF:0,Saudi Quran
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/533.m3u8
+#EXTINF:0,Medine LIVE
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/745.m3u8
+#EXTINF:0,Yasin TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/823.m3u8
+#EXTINF:0,ATV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/704.m3u8
+#EXTINF:0,KRAL TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/490.m3u8
+#EXTINF:0,EGE TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/822.m3u8
+#EXTINF:0,Kanal D
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/821.m3u8
+#EXTINF:0,YABAN TV
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/540.m3u8
+#EXTINF:0,EUROSTAR
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/485.m3u8
+#EXTINF:0,NTV AVRUPA
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/471.m3u8
+#EXTINF:0,CAM
+http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/945.m3u8
 
 
 
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-
 
 #EXTINF:-1,PRO 7
 http://217.147.40.118:8080/udp/233.97.20.41:1234
